@@ -1,10 +1,10 @@
-Hi, I'm Daniyal Bayat 👋
+# Hi, I'm Daniyal Bayat 👋
 
 I'm an M.Sc. student in Automotive Engineering at Iran University of Science and Technology (IUST), interested in applying Artificial Intelligence and Machine Learning to real-world engineering problems.
 
 My current focus is on Machine Learning, Deep Learning, and Computer Vision.
 
-Technical Skills
+## Technical Skills
 
 Programming: Python
 
@@ -16,13 +16,13 @@ Deep Learning: PyTorch, Torchvision
 
 Computer Vision: Image Classification, Feature Extraction, Anomaly Detection
 
-Featured Projects
+## Featured Projects
 
 1. Plant Disease Classification
 
 Currently developing a multi-class image classification project using the PlantVillage dataset (38 classes).
 
-Research Interests
+## Research Interests
 
 AI and Machine Learning in Automotive Engineering
 
@@ -32,7 +32,7 @@ Data-driven Modeling of Automotive Systems
 
 Intelligent Automotive Applications
 
-Education
+## Education
 
 M.Sc. in Automotive Engineering — Iran University of Science and Technology
 
