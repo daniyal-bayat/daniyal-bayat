@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi, I'm Daniyal Bayat 👋
 
-<!--
-**daniyal-bayat/daniyal-bayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an M.Sc. student in Automotive Engineering at Iran University of Science and Technology (IUST), interested in applying Artificial Intelligence and Machine Learning to real-world engineering problems.
 
-Here are some ideas to get you started:
+My current focus is on Machine Learning, Deep Learning, and Computer Vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+
+Programming: Python
+
+Data Analysis: NumPy, Pandas, Matplotlib
+
+Machine Learning: Scikit-learn, XGBoost, LightGBM
+
+Deep Learning: PyTorch, Torchvision
+
+Computer Vision: Image Classification, Feature Extraction, Anomaly Detection
+
+Featured Projects
+
+1. Plant Disease Classification
+
+Currently developing a multi-class image classification project using the PlantVillage dataset (38 classes).
+
+Research Interests
+
+AI and Machine Learning in Automotive Engineering
+
+Computer Vision and Deep Learning
+
+Data-driven Modeling of Automotive Systems
+
+Intelligent Automotive Applications
+
+Education
+
+M.Sc. in Automotive Engineering — Iran University of Science and Technology
+
+B.Sc. in Aircraft Maintenance Engineering — Civil Aviation Technology College
+
+I'm continuously learning, building practical projects, and exploring ways to apply AI to engineering challenges.
