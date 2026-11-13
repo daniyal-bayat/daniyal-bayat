@@ -14,7 +14,7 @@ Machine Learning: Scikit-learn, XGBoost, LightGBM
 
 Deep Learning: PyTorch, Torchvision
 
-Computer Vision: Image Classification, Feature Extraction, Anomaly Detection
+Computer Vision: Image Classification
 
 ## Featured Projects
 
